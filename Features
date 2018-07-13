@@ -1,0 +1,11 @@
+
+
+1)Groovy features not available in Java include both static and dynamic typing (with the keyword def), operator overloading, 
+native syntax for lists and associative arrays (maps), native support for regular expressions, polymorphic iteration, 
+expressions embedded inside strings, added helper methods, and the safe navigation operator ?. 
+to check automatically for null pointers (for example, variable?.method(), or variable?.field)
+2)Groovy provides native support for various markup languages such as XML and HTML, accomplished via an inline 
+Document Object Model (DOM) syntax. This feature enables the definition and manipulation of many types of heterogeneous
+data assets with a uniform and concise syntax and programming methodology
+3)Meta Programming Support
+
