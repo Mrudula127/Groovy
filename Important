@@ -6,3 +6,16 @@ groovyConsole=====>Starts a graphical interface that is used to execute Groovy c
 groovyConsole loads and runs Groovy script files.
 
 Groovy==>Starts the interpreter that executes Groovy scripts. Single-line Groovy scripts can be specified as command-line arguments.
+
+Triple single quoted string:
+-----------------------------
+Triple single quoted strings are a series of characters surrounded by triplets of single quotes:
+
+'''a triple single quoted string'''
+Example :
+def startingAndEndingWithANewline = '''
+line one
+line two
+line three
+'''
+-----------------------------------
