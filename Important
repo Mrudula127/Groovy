@@ -1,0 +1,8 @@
+
+groovysh======>Starts the groovysh command-line shell, which is used to execute Groovy code interactively.
+By entering statements or whole scripts, line by line, into the shell and giving the go command, code is executed “on the fly.”
+
+groovyConsole=====>Starts a graphical interface that is used to execute Groovy code interactively; moreover,
+groovyConsole loads and runs Groovy script files.
+
+Groovy==>Starts the interpreter that executes Groovy scripts. Single-line Groovy scripts can be specified as command-line arguments.
